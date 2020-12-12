@@ -13,6 +13,9 @@ from modules.sprites.dinosaur import *
 from modules.interfaces.gameend import GameEndInterface
 from modules.interfaces.gamestart import GameStartInterface
 
+def test():
+	print("这是一个测试方法")
+
 
 '''main'''
 def main(highest_score):
