@@ -116,7 +116,7 @@ def main(highest_score):
 	return GameEndInterface(screen, cfg), highest_score
 
 
-'''run'''
+'''运行游戏'''
 if __name__ == '__main__':
 	highest_score = 0
 	while True:
